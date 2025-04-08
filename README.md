@@ -69,7 +69,7 @@ pip install python-dotenv google-auth google-auth-oauthlib google-api-python-cli
 source venv/bin/activate # for environment
 python src/email_assistant.py 
 #clone repository
-git clone https://github.com/yourusername/email-assistant.git
+git clone https://github.com/anurag-dwivedi-wasserstoff-AiInternTask
 cd email-assistant
 
 google cloud console - https://console.cloud.google.com/home/dashboard?invt=AbuMrg&project=freeemailassistant
