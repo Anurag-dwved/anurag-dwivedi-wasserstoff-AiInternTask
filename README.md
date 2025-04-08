@@ -60,7 +60,7 @@ email-assistant/
 │ └── client_secret_*.json # Client secret file
 │
 └── requirements.txt # Python dependencies
- Quick Start
+🚀 Quick Start
 ##some library installation 
 pip install google-generativeai python-dotenv psycopg2 sqlalchemy slack-sdk requests
 pip install  google-genai
@@ -71,7 +71,7 @@ python src/email_assistant.py
 #clone repository
 git clone https://github.com/anurag-dwivedi-wasserstoff-AiInternTask
 cd email-assistant
-
+⚠️ Important Notes
 google cloud console - https://console.cloud.google.com/home/dashboard?invt=AbuMrg&project=freeemailassistant
 This project demonstrates how AI-powered automation can transform email management, saving time and improving productivity. With its modular design and clear documentation, it serves as a strong foundation for further development.
 
