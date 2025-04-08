@@ -1,9 +1,4 @@
 # Anurag-dwivedi-Wasserstoff-AiInternTask
-# AI Personal Email-Assistant 
-
-An intelligent email automation system that reads, analyzes, and takes action on your emails using Google's Gemini AI, with integrations for Slack, web search, and calendar scheduling.
-# AI Personal Email Assistant with Gemini
-
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Gemini](https://img.shields.io/badge/LLM-Google_Gemini-FFCD00)](https://ai.google.dev/)
 [![Gmail](https://img.shields.io/badge/Email-Gmail_API-EA4335)](https://developers.google.com/gmail)
