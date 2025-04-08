@@ -24,7 +24,7 @@ An intelligent email automation system that reads, analyzes, and takes action on
   - Email history storage
   - Attachment handling
   - Conversation threading
-    🚀 Quick Start
+    🚀Quick Start
 ##some library installation 
 pip install google-generativeai python-dotenv psycopg2 sqlalchemy slack-sdk requests
 pip install  google-genai
