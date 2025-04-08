@@ -9,7 +9,7 @@ An intelligent email automation system that reads, analyzes, and takes action on
 [![Gmail](https://img.shields.io/badge/Email-Gmail_API-EA4335)](https://developers.google.com/gmail)
 [![Slack](https://img.shields.io/badge/Integration-Slack_API-4A154B)](https://api.slack.com/)
 
-An intelligent email automation system that reads, analyzes, and takes action on your emails using Google's Gemini AI.
+An intelligent email automation system that reads, analyzes, and takes action on your emails using Google's Gemini AI.This project demonstrates how AI-powered automation can transform email management, saving time and improving productivity. With its modular design and clear documentation, it serves as a strong foundation for further development.
 
 ## ✨ Features
 
@@ -29,6 +29,18 @@ An intelligent email automation system that reads, analyzes, and takes action on
   - Email history storage
   - Attachment handling
   - Conversation threading
+    🚀 Quick Start
+##some library installation 
+pip install google-generativeai python-dotenv psycopg2 sqlalchemy slack-sdk requests
+pip install  google-genai
+pip install -q -U google-genai
+pip install python-dotenv google-auth google-auth-oauthlib google-api-python-client openai slack-sdk sqlalchemy
+source venv/bin/activate # for environment
+python src/email_assistant.py 
+#clone repository
+git clone https://github.com/anurag-dwivedi-wasserstoff-AiInternTask
+cd email-assistant
+google cloud console - https://console.cloud.google.com/home/dashboard?invt=AbuMrg&project=freeemailassistant
 
 ## 🏗️ Architecture
 graph LR
@@ -60,19 +72,3 @@ email-assistant/
 │ └── client_secret_*.json # Client secret file
 │
 └── requirements.txt # Python dependencies
-🚀 Quick Start
-##some library installation 
-pip install google-generativeai python-dotenv psycopg2 sqlalchemy slack-sdk requests
-pip install  google-genai
-pip install -q -U google-genai
-pip install python-dotenv google-auth google-auth-oauthlib google-api-python-client openai slack-sdk sqlalchemy
-source venv/bin/activate # for environment
-python src/email_assistant.py 
-#clone repository
-git clone https://github.com/anurag-dwivedi-wasserstoff-AiInternTask
-cd email-assistant
-⚠️ Important Notes
-google cloud console - https://console.cloud.google.com/home/dashboard?invt=AbuMrg&project=freeemailassistant
-This project demonstrates how AI-powered automation can transform email management, saving time and improving productivity. With its modular design and clear documentation, it serves as a strong foundation for further development.
-
-
